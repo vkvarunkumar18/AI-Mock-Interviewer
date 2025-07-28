@@ -40,24 +40,6 @@ An advanced, interactive platform to help job seekers master their interview ski
 ### 1. Clone the Repository
 git clone https://github.com/Varunkumar1818/ai-mock-interview.git
 
-### Installation
-To get started with the project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-
-   ```
-
-2. Navigate to the project directory:
-   ```bash
- 
-   ```
-
-3. Install the dependencies:
-   ```bash
-
-   ```
-
 ### Usage
 1. Start the development server:
    ```bash
